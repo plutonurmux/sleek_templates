@@ -1,0 +1,2757 @@
+/*------------------------------------------------------------------
+    Version: 1.0
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    [Table of contents]
+
+    1. DEFAULT VERSION (Check style.css and colors.css)
+    2. HOSTING VERSION
+    3. SEO VERSION
+    4. WATCH VERSION
+    5. APP VERSION
+    6. CLINIC VERSION
+    7. REAL ESTATE VERSION
+    8. POLITICS VERSION
+    9. BARBER VERSION
+    10. BUILDING VERSION
+
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    1. HOSTING VERSION
+-------------------------------------------------------------------*/
+
+body.host_version .icon_wrap i,
+body.host_version .customwidget li i,
+body.host_version .navbar-nav span {
+    color: #2d3032 !important;
+}
+
+body.host_version .lead strong,
+body.host_version .icon-wrapper:hover a,
+body.host_version a:hover,
+body.host_version a:focus {
+    color: #0071b9
+}
+
+body.host_version .btn-light {
+    background-color: #ffffff;
+    color: #1f1f1f !important;
+}
+
+body.host_version .stat-wrap h3 {
+    color: #ffffff !important;
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.host_version .icon_wrap:hover,
+body.host_version .nav-pills > li.active > a,
+body.host_version .nav-pills > li.active > a:focus,
+body.host_version .nav-pills > li.active > a:hover,
+body.host_version .icon-wrapper:hover i,
+body.host_version .grd1 {
+    color: #ffffff !important;
+    background: #2d3032;
+}
+
+body.host_version .stat-wrap,
+body.host_version .dmtop:hover,
+body.host_version .cac:hover,
+body.host_version .features-right li:hover i,
+body.host_version .features-left li:hover i,
+body.host_version .nav-pills > li:hover > a,
+body.host_version .nav-pills > li:focus > a,
+body.host_version .nav-pills > li.active > a,
+body.host_version .nav-pills > li.active > a:focus,
+body.host_version .nav-pills > li.active > a:hover,
+body.host_version .divider-bar,
+body.host_version .owl-next:hover i,
+body.host_version .owl-prev:hover i,
+body.host_version .icon-wrapper:hover i:hover,
+body.host_version .grd1:hover,
+body.host_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff !important;
+    background: #00aeef;
+}
+
+body.host_version .checkdomain {
+    background-color: #fff;
+    padding: 30px;
+    text-align: left;
+}
+
+body.host_version .checkdomain {
+    margin-top: 40px;
+    display: block;
+    position: relative;
+}
+
+body.host_version .checkdomain-wrapper .form-group {
+    background: #f2f3f5 none repeat scroll 0 0;
+    padding: 10px;
+    border: 1px solid #e9e9ec;
+    width: 100%;
+}
+
+body.host_version .checkdomain hr {
+    border-color: rgba(255, 255, 255, 0);
+    margin: 10px 0;
+}
+
+body.host_version .checkdomain-wrapper .form-control {
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #e9e9ec;
+    box-shadow: none !important;
+    border-radius: 0;
+    width: 84%;
+    height: 50px;
+}
+
+body.host_version .checkdomain-wrapper .btn {
+    height: 50px;
+    width: 15%;
+}
+
+body.host_version .checkdomain {
+    background-color: #fff;
+    padding: 30px;
+    position: relative;
+    display: inline-table;
+    margin-top: 50px;
+    width: 100%;
+}
+
+body.host_version .icon-wrapper {
+    text-align: left;
+}
+
+body.host_version .checkdomain-wrapper .checkbox {
+    display: inline-block;
+    margin-right: 15px;
+    padding-left: 5px;
+    text-align: left;
+}
+
+body.host_version .dev-list .widget p {
+    margin: 0;
+    padding: 5px 0 0;
+}
+
+body.host_version .dev-list img {
+    width: 100%;
+}
+
+body.host_version .footer-social .btn {
+    background-color: white;
+    border: 1px solid #ededed !important;
+    color: #1f1f1f;
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 3px;
+    padding: 0;
+    text-align: center;
+    width: 40px;
+}
+
+body.host_version .dev-list .widget {
+    padding: 30px;
+    border: 1px solid #ededed;
+	box-shadow: 0 0 8px 0 rgba(0,0,0,.08);
+}
+
+body.host_version .dev-list .widget h3 {
+    font-size: 21px;
+    padding: 0 0 5px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.host_version .dev-list .widget-title {
+    padding: 20px 0 10px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.host_version .big-tagline img {
+    margin-bottom: 20px;
+    max-width: 186px;
+}
+
+body.host_version .navbar-default .btn-light {
+    border-color: #efefef !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
+}
+
+body.host_version .affix {
+    background-color: #ffffff !important;
+}
+
+body.host_version .icon_wrap,
+body.host_version .header_style_01 {
+    background: #ffffff !important;
+    position: relative;
+}
+
+body.host_version .effect-1:after {
+    box-shadow: 0 0 0 2px #00aeef;
+}
+
+body.host_version .first-section .effect-1:after,
+body.host_version .stat-wrap .effect-1:after {
+    box-shadow: 0 0 0 2px #fff;
+}
+
+body.host_version .header_style_01 .navbar-default .navbar-nav > li > a {
+    color: #1f1f1f;
+}
+
+body.host_version .noover p {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+body.host_version .noover .grd1 {
+    border: 0 !important;
+}
+
+body.host_version .stat-wrap p {
+    color: #ffffff;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 1.3;
+    margin: 0;
+    padding: 13px 0 0;
+}
+
+body.host_version .icon_wrap {
+    font-size: 62px;
+}
+
+body.host_version .first-section {
+    display: block;
+    overflow: visible !important;
+    padding: 14em 0 14em 0 !important;
+    position: relative;
+}
+
+body.host_version .first-section h2 {
+    padding-bottom: 15px;
+}
+
+body.host_version .first-section .lead {
+    padding-bottom: 35px;
+}
+
+body.host_version .stat-wrap {    
+    border-radius: 0px;
+    display: block;
+    bottom: 0px !important;
+    margin-top: 1em;
+    padding: 2em 1.5em;
+    position: relative;
+    z-index: 10;
+}
+
+body.host_version .stat-wrap .alignleft {
+    margin-right: 30px;
+}
+
+
+/*------------------------------------------------------------------
+    2. SEO MARKETING VERSION
+-------------------------------------------------------------------*/
+
+body.seo_version .widget-title small,
+body.seo_version .customwidget li i,
+body.seo_version .navbar-nav span {
+    color: #ff5023 !important;
+}
+
+body.seo_version .lead strong,
+body.seo_version .icon-wrapper:hover a,
+body.seo_version a:hover,
+body.seo_version a:focus {
+    color: #ffda44
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.seo_version .btn-buy:hover,
+body.seo_version .cac:hover,
+body.seo_version .icon_wrap:hover,
+body.seo_version .nav-pills > li.active > a,
+body.seo_version .nav-pills > li.active > a:focus,
+body.seo_version .nav-pills > li.active > a:hover,
+body.seo_version .icon-wrapper:hover i,
+body.seo_version .grd1 {
+    color: #ffffff;
+    background: #ff5023;
+    border: #ff5023;
+    background: -moz-linear-gradient(left, #ff5023 0%, #ffda44 100%);
+    background: -webkit-linear-gradient(left, #ff5023 0%, #ffda44 100%);
+    background: linear-gradient(to right, #ff5023 0%, #ffda44 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ff5023', endColorstr='#ffda44', GradientType=1);
+}
+
+body.seo_version .icon_wrap,
+body.seo_version .dmtop:hover,
+body.seo_version .features-right li:hover i,
+body.seo_version .features-left li:hover i,
+body.seo_version .nav-pills > li:hover > a,
+body.seo_version .nav-pills > li:focus > a,
+body.seo_version .nav-pills > li.active > a,
+body.seo_version .nav-pills > li.active > a:focus,
+body.seo_version .nav-pills > li.active > a:hover,
+body.seo_version .divider-bar,
+body.seo_version .owl-next:hover i,
+body.seo_version .owl-prev:hover i,
+body.seo_version .icon-wrapper:hover i:hover,
+body.seo_version .grd1:hover,
+body.seo_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #ffda44;
+    background: -moz-linear-gradient(left, #ffda44 0%, #ff5023 100%);
+    background: -webkit-linear-gradient(left, #ffda44 0%, #ff5023 100%);
+    background: linear-gradient(to right, #ffda44 0%, #ff5023 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffda44', endColorstr='#ff5023', GradientType=1);
+}
+
+body.seo_version .navbar-nav span {
+    color: #ffda44 !important;
+}
+
+body.seo_version .seo-services .col-md-3:hover img {
+    border-color: #ffda44;
+}
+
+
+/**************************************
+OTHERS 
+**************************************/
+
+body.seo_version #clouds {
+    z-index: 1;
+    bottom: 0;
+    position: relative;
+}
+
+body.seo_version #clouds path {
+    fill: #ffffff;
+    bottom: -10px;
+    position: absolute;
+    overflow: hidden;
+    stroke: #ffffff;
+}
+
+body.seo_version #clouds1 {
+    z-index: 1;
+    bottom: 0;
+    position: relative;
+}
+
+body.seo_version #clouds1 path {
+    fill: #ffffff;
+    bottom: -10px;
+    position: absolute;
+    overflow: hidden;
+    stroke: #ffffff;
+}
+
+body.seo_version svg {
+    top: -90px;
+    display: inline-block;
+    position: absolute;
+    z-index: 100;
+}
+
+body.seo_version .app_iphone_02 {
+    width: 700px;
+    position: absolute;
+    right: 0%;
+    bottom: -16%;
+    z-index: 1;
+}
+
+body.seo_version .affix,
+body.seo_version .cac {
+    background-color: #0e0e2e;
+}
+
+body.seo_version .section.db,
+body.seo_version .dmtop,
+body.seo_version .dmtop,
+body.seo_version .affix {
+    background-color: #000020 !important;
+}
+
+body.seo_version .copyrights {
+    background-color: #ffffff;
+    padding: 0 60px 50px 60px !important;
+}
+
+body.seo_version .footer-distributed form input {
+    background-color: #f2f3f5;
+}
+
+body.seo_version .btn-light {
+    color: #ffffff !important;
+    opacity: 1;
+}
+
+body.seo_version .btn-light i {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+body.seo_version .effect-1:after {
+    box-shadow: 0 0 0 2px #ffda44;
+}
+
+body.seo_version .footer a,
+body.seo_version .cac a h3,
+body.seo_version .footer-distributed form input,
+body.seo_version .footer-distributed .footer-company-name,
+body.seo_version .footer {
+    color: #736e78;
+}
+
+body.seo_version .footer-distributed form input::-webkit-input-placeholder {
+    color: #736e78;
+}
+
+body.seo_version .footer-distributed form input::-moz-placeholder {
+    opacity: 1;
+    color: #736e78;
+}
+
+body.seo_version .footer-distributed form input:-ms-input-placeholder {
+    color: #736e78;
+}
+
+body.seo_version .noover {
+    overflow: hidden;
+}
+
+body.seo_version .noover i {
+    font-size: 34px;
+    vertical-align: middle;
+    color: #ffffff !important;
+    color: rgba(255, 255, 255, 0.6) !important;
+}
+
+body.seo_version .noover p {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+body.seo_version .desc {
+    background-color: #000020;
+    border: 0 solid #efefef;
+}
+
+body.seo_version .contact_form {
+    background-color: #ffffff;
+}
+
+body.seo_version .owl-next i,
+body.seo_version .owl-prev i {
+    background-color: #f2f3f5;
+}
+
+body.seo_version .desc h3 i {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+body.seo_version .testimonial h3 {
+    color: #fff;
+}
+
+body.seo_version .testimonial h4 {
+    color: #1f1f1f;
+}
+
+body.seo_version .header_style_01 {
+    top: 0;
+}
+
+body.seo_version .stat-wrap .alignleft {
+    margin-right: 20px;
+}
+
+body.seo_version .stat-wrap h3 {
+    color: #ffffff !important;
+    display: block;
+    margin-top: 10px !important;
+}
+
+body.seo_version .stat-wrap .rating i {
+    color: #eabe12;
+}
+
+body.seo_version .stat-wrap p {
+    color: #ffffff;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 0;
+    padding: 15px 0 0;
+    line-height: 1;
+}
+
+body.seo_version .service-widget h3 {
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+body.seo_version .service-widget small {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+body.seo_version .section.db .section-title h2 {
+    color: rgba(255, 255, 255, 0.7) !important;
+    padding: 0;
+    letter-spacing: 2px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+body.seo_version .message-box h2,
+body.seo_version .section .section-title h3 {
+    font-weight: bold;
+}
+
+body.seo_version .message-box h4,
+body.seo_version .section-title small {
+    font-size: 15px;
+    color: #999;
+    letter-spacing: 1px;
+    padding-bottom: 0px;
+    display: block;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+body.seo_version .apple-button a,
+body.seo_version .cac a h3,
+body.seo_version .section.db .section-title .lead {
+    color: #ffffff !important;
+}
+
+body.seo_version .apple-button {
+    line-height: 1;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+body.seo_version .apple-button i {
+    margin: -5px 20px;
+    vertical-align: middle;
+    font-size: 64px;
+}
+
+body.seo_version .apple-button {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+body.seo_version .apple-button strong {
+    line-height: 1;
+    margin-top: 5px;
+    text-transform: uppercase;
+    font-size: 31px;
+    display: block;
+}
+
+body.seo_version .dev-list .widget p {
+    margin: 0;
+    padding: 5px 0 15px;
+}
+
+body.seo_version .dev-list img {
+    width: 100%;
+}
+
+body.seo_version .footer-social .btn {
+    padding: 0;
+    width: 35px;
+    height: 35px;
+    line-height: 33px;
+    text-align: center;
+    margin: 0 3px;
+    border: 1px solid #e80d45 !important;
+    color: #ffffff;
+    background-color: #e80d45 !important;
+}
+
+body.seo_version .dev-list .widget {
+    padding: 30px;
+    border: 1px solid #ededed;
+}
+
+body.seo_version .dev-list .widget h3 {
+    font-size: 21px;
+    padding: 0 0 5px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.seo_version .dev-list .widget-title {
+    padding: 20px 0 10px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.seo_version .iphones {
+    width: 1080px;
+    position: absolute;
+    right: -20%;
+    bottom: -16%;
+    z-index: 0;
+}
+
+body.seo_version .seo-services {
+    text-align: center;
+    cursor: pointer;
+}
+
+body.seo_version .seo-services p.lead {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+body.seo_version .seo-services h4 {
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 1 !important;
+    margin: 0;
+    padding: 30px 0 20px;
+}
+
+body.seo_version .seo-services img {
+    max-width: 120px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 100%;
+    border: 1px solid #ededed;
+    display: block;
+}
+
+body.seo_version .how-its-work .hc {
+    background-color: #111;
+    padding: 60px;
+    width: 25%;
+    color: #ffffff;
+    float: left;
+}
+
+body.seo_version .how-its-work .hc h2 {
+    font-size: 64px;
+    display: block;
+    padding: 0 0 0 30px;
+    margin: 0 0 15px;
+    line-height: 1 !important;
+    border-left: 1px dashed rgba(255, 255, 255, 0.4);
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+body.seo_version .how-its-work .hc p {
+    font-size: 21px;
+    font-weight: 300;
+    color: #ffffff !important;
+}
+
+body.seo_version .how-its-work .hc p.lead {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff !important;
+}
+
+body.seo_version .hc.colon1 {
+    background-color: #0d61d0;
+}
+
+body.seo_version .hc.colon2 {
+    background-color: #0053c2;
+}
+
+body.seo_version .hc.colon3 {
+    background-color: #0049b8;
+}
+
+body.seo_version .hc.colon4 {
+    background-color: #003ead;
+}
+
+body.seo_version .app-features li {
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 30px;
+}
+
+body.seo_version .app-features li:last-child {
+    border-bottom: 0 dashed #efefef;
+    padding-bottom: 0px;
+}
+
+body.seo_version .entry {
+    position: relative;
+    padding: 0 !important;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+body.seo_version .first-section {
+    padding: 14em 0 10em;
+}
+
+body.seo_version .first-section h2 {
+    color: #ffffff;
+    display: block;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+body.seo_version .magnifier {
+    position: absolute;
+    top: 0;
+    cursor: pointer !important;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0+100;Neutral+Density */
+    background-color: rgba(0, 0, 0, 0.8);
+    left: 500px;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    zoom: 1;
+    cursor: crosshair;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+body.seo_version .entry:hover .magnifier {
+    zoom: 1;
+    left: 0;
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+
+body.seo_version .owl-app {
+    position: relative;
+    overflow: hidden;
+    background-color: #fff;
+    height: 600px;
+    margin: 0 auto;
+    z-index: 1;
+    width: 300px;
+}
+
+body.seo_version .owl-app::before {
+    background: url("../images/phonebg.png") no-repeat scroll center center;
+    content: "";
+    height: 600px;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 300px;
+    z-index: 1;
+}
+
+body.seo_version .owl-phone {
+    overflow: hidden;
+    background-color: #111;
+    margin: 70px auto 0;
+    height: 449px;
+    display: block;
+    z-index: 2;
+    text-align: center;
+    width: 272px !important;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+/*------------------------------------------------------------------
+    3. WATCH VERSION
+-------------------------------------------------------------------*/
+
+body.watch_version .section-title a,
+body.watch_version .customwidget li i,
+body.watch_version .navbar-nav span {
+    color: #2196F3 !important;
+}
+
+body.watch_version .lead strong,
+body.watch_version .footer-links a:hover,
+body.watch_version .icon-wrapper:hover a,
+body.watch_version a:hover,
+body.watch_version a:focus {
+    color: #1976D2;
+}
+
+body.watch_version .effect-1:after {
+    box-shadow: 0 0 0 2px #1976D2 !important;
+}
+
+body.watch_version .footer-links a:hover,
+body.watch_version .footer a:hover {
+    color: #1976D2 !important;
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.watch_version .icon_wrap:hover,
+body.watch_version .nav-pills > li.active > a,
+body.watch_version .nav-pills > li.active > a:focus,
+body.watch_version .nav-pills > li.active > a:hover,
+body.watch_version .icon-wrapper:hover i,
+body.watch_version .grd1 {
+    color: #ffffff;
+    background: #1976D2;
+    background: -moz-linear-gradient(left, #1976D2 0%, #2196F3 100%);
+    background: -webkit-linear-gradient(left, #1976D2 0%, #2196F3 100%);
+    background: linear-gradient(to right, #1976D2 0%, #2196F3 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#1976D2', endColorstr='#2196F3', GradientType=1);
+}
+
+body.watch_version .icon_wrap,
+body.watch_version .dmtop:hover,
+body.watch_version .cac:hover,
+body.watch_version .features-right li:hover i,
+body.watch_version .features-left li:hover i,
+body.watch_version .nav-pills > li:hover > a,
+body.watch_version .nav-pills > li:focus > a,
+body.watch_version .nav-pills > li.active > a,
+body.watch_version .nav-pills > li.active > a:focus,
+body.watch_version .nav-pills > li.active > a:hover,
+body.watch_version .divider-bar,
+body.watch_version .owl-next:hover i,
+body.watch_version .owl-prev:hover i,
+body.watch_version .icon-wrapper:hover i:hover,
+body.watch_version .grd1:hover,
+body.watch_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #2750ff;
+    background: -moz-linear-gradient(left, #2196F3 0%, #1976D2 100%);
+    background: -webkit-linear-gradient(left, #2196F3 0%, #1976D2 100%);
+    background: linear-gradient(to right, #2196F3 0%, #1976D2 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2196F3', endColorstr='#1976D2', GradientType=1);
+}
+
+
+/**************************************
+OTHERS 
+**************************************/
+
+body.watch_version .owl-next i,
+body.watch_version .owl-prev i {
+    background-color: #f2f3f5;
+}
+
+body.watch_version .footer-distributed .footer-left {
+    float: none;
+}
+
+body.watch_version .copyrights {
+    background-color: #ffffff;
+    border-top: 1px solid #eeeeee;
+}
+
+body.watch_version .affix {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #eee !important;
+}
+
+body.watch_version .header_style_01 {
+    background-color: #fff;
+    position: relative;
+}
+
+body.watch_version .image-center img {
+    max-width: 760px;
+    top: -15%;
+    left: 2%;
+    position: absolute !important;
+    z-index: 10;
+    text-align: center;
+}
+
+body.watch_version .service-widget h3 {
+    padding-bottom: 5px;
+}
+
+body.watch_version .img-center img {
+    box-shadow: none;
+    margin: auto;
+    max-width: 900px;
+    width: 100%;
+}
+
+body.watch_version .section-title a {
+    display: block;
+    font-weight: 600;
+    margin: 20px 0 0;
+    font-size: 18px;
+    text-decoration: underline !important;
+}
+
+body.watch_version li.social-links a {
+    padding: 10px 0 !important;
+}
+
+body.watch_version .section-title h3 {
+    font-size: 46px;
+}
+
+body.watch_version .section.wb {
+    border-top: 1px solid #eee;
+}
+
+body.watch_version .dmtop,
+body.watch_version .section.db {
+    background-color: #000;
+}
+
+body.watch_version .first-section {
+    padding: 16em 0;
+}
+
+body.watch_version .header_style_01 .navbar-default .navbar-nav > li > a {
+    color: #000 !important;
+}
+
+body.watch_version .first-section h2 {
+    color: #000;
+    font-size: 60px;
+}
+
+body.watch_version .first-section .lead {
+    color: #999;
+}
+
+body.watch_version .btn-dark {
+    border: 2px solid #000 !important;
+}
+
+body.watch_version .macbookright {
+    width: 780px;
+    position: absolute;
+    right: 7%;
+    bottom: -1%;
+}
+
+
+/*------------------------------------------------------------------
+    4. APP SHOWCASE VERSION
+-------------------------------------------------------------------*/
+
+body.app_version .widget-title small,
+body.app_version .customwidget li i,
+body.app_version .navbar-nav span {
+    color: #e80d45 !important;
+}
+
+body.app_version .lead strong,
+body.app_version .icon-wrapper:hover a,
+body.app_version a:hover,
+body.app_version a:focus {
+    color: #e80d45
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.app_version .btn-buy:hover,
+body.app_version .cac:hover,
+body.app_version .icon_wrap:hover,
+body.app_version .nav-pills > li.active > a,
+body.app_version .nav-pills > li.active > a:focus,
+body.app_version .nav-pills > li.active > a:hover,
+body.app_version .icon-wrapper:hover i,
+body.app_version .grd1 {
+    color: #ffffff;
+    background: #0d61d0;
+    border: #0d61d0;
+    background: -moz-linear-gradient(left, #0d61d0 0%, #e80d45 100%);
+    background: -webkit-linear-gradient(left, #0d61d0 0%, #e80d45 100%);
+    background: linear-gradient(to right, #0d61d0 0%, #e80d45 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0d61d0', endColorstr='#e80d45', GradientType=1);
+}
+
+body.app_version .icon_wrap,
+body.app_version .dmtop:hover,
+body.app_version .cac,
+body.app_version .features-right li:hover i,
+body.app_version .features-left li:hover i,
+body.app_version .nav-pills > li:hover > a,
+body.app_version .nav-pills > li:focus > a,
+body.app_version .nav-pills > li.active > a,
+body.app_version .nav-pills > li.active > a:focus,
+body.app_version .nav-pills > li.active > a:hover,
+body.app_version .divider-bar,
+body.app_version .owl-next:hover i,
+body.app_version .owl-prev:hover i,
+body.app_version .icon-wrapper:hover i:hover,
+body.app_version .grd1:hover,
+body.app_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #e80d45;
+    background: -moz-linear-gradient(left, #e80d45 0%, #0d61d0 100%);
+    background: -webkit-linear-gradient(left, #e80d45 0%, #0d61d0 100%);
+    background: linear-gradient(to right, #e80d45 0%, #0d61d0 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#e80d45', endColorstr='#0d61d0', GradientType=1);
+}
+
+body.app_version .navbar-nav span {
+    color: #0d61d0 !important;
+}
+
+
+/**************************************
+OTHERS 
+**************************************/
+
+body.app_version .app_iphone_01 {
+    width: 700px;
+    position: absolute;
+    right: 10%;
+    z-index: 2;
+    bottom: -32%;
+}
+
+body.app_version .app_iphone_02 {
+    width: 700px;
+    position: absolute;
+    right: 0%;
+    bottom: -46%;
+    z-index: 1;
+}
+
+body.app_version .cac {
+    background-color: #241f29;
+}
+
+body.app_version .dmtop,
+body.app_version .footer,
+body.app_version .affix {
+    background-color: #201b25;
+}
+
+body.app_version .copyrights {
+    background-color: #1c1721;
+}
+
+body.app_version .footer-distributed form input {
+    background-color: #120d17;
+}
+
+body.app_version .btn-light {
+    color: #ffffff !important;
+    opacity: 1;
+}
+
+body.app_version .btn-light i {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+body.app_version .effect-1:after {
+    box-shadow: 0 0 0 2px #0d61d0;
+}
+
+body.app_version .footer a,
+body.app_version .cac a h3,
+body.app_version .footer-distributed form input,
+body.app_version .footer-distributed .footer-company-name,
+body.app_version .footer {
+    color: #736e78;
+}
+
+body.app_version .footer-distributed form input::-webkit-input-placeholder {
+    color: #736e78;
+}
+
+body.app_version .footer-distributed form input::-moz-placeholder {
+    opacity: 1;
+    color: #736e78;
+}
+
+body.app_version .footer-distributed form input:-ms-input-placeholder {
+    color: #736e78;
+}
+
+body.app_version .noover {
+    overflow: hidden;
+}
+
+body.app_version .noover i {
+    font-size: 34px;
+    vertical-align: middle;
+    color: #ffffff !important;
+    color: rgba(255, 255, 255, 0.6) !important;
+}
+
+body.app_version .noover p {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+body.app_version .desc {
+    background-color: #ffffff;
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
+    border: 0 solid #efefef;
+}
+
+body.app_version .contact_form {
+    background-color: #ffffff;
+}
+
+body.app_version .owl-next i,
+body.app_version .owl-prev i {
+    background-color: #f2f3f5;
+}
+
+body.app_version .desc h3 i {
+    color: #f2f3f5;
+}
+
+body.app_version .testimonial h4 {
+    color: #1f1f1f;
+}
+
+body.app_version .header_style_01 {
+    top: 30px;
+}
+
+body.app_version .stat-wrap .alignleft {
+    margin-right: 20px;
+}
+
+body.app_version .stat-wrap h3 {
+    color: #ffffff !important;
+    display: block;
+    margin-top: 10px !important;
+}
+
+body.app_version .stat-wrap .rating i {
+    color: #eabe12;
+}
+
+body.app_version .stat-wrap p {
+    color: #ffffff;
+    font-size: 38px;
+    font-weight: 300;
+    margin: 0;
+    padding: 5px 0 0;
+    line-height: 1;
+}
+
+body.app_version .section.db .section-title h2 {
+    color: rgba(255, 255, 255, 0.7) !important;
+    padding: 0;
+    letter-spacing: 2px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+body.app_version .apple-button a,
+body.app_version .cac a h3,
+body.app_version .section.db .section-title .lead {
+    color: #ffffff !important;
+}
+
+body.app_version .apple-button {
+    line-height: 1;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+body.app_version .apple-button i {
+    margin: -5px 20px;
+    vertical-align: middle;
+    font-size: 64px;
+}
+
+body.app_version .apple-button {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+body.app_version .apple-button strong {
+    line-height: 1;
+    margin-top: 5px;
+    text-transform: uppercase;
+    font-size: 31px;
+    display: block;
+}
+
+body.app_version .dev-list .widget p {
+    margin: 0;
+    padding: 5px 0 15px;
+}
+
+body.app_version .dev-list img {
+    width: 100%;
+}
+
+body.app_version .footer-social .btn {
+    padding: 0;
+    width: 35px;
+    height: 35px;
+    line-height: 33px;
+    text-align: center;
+    margin: 0 3px;
+    border: 1px solid #e80d45 !important;
+    color: #ffffff;
+    background-color: #e80d45 !important;
+}
+
+body.app_version .dev-list .widget {
+    padding: 30px;
+    border: 1px solid #ededed;
+}
+
+body.app_version .dev-list .widget h3 {
+    font-size: 21px;
+    padding: 0 0 5px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.app_version .dev-list .widget-title {
+    padding: 20px 0 10px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.app_version .iphones {
+    width: 1080px;
+    position: absolute;
+    right: -20%;
+    bottom: -16%;
+    z-index: 0;
+}
+
+body.app_version .how-its-work .hc {
+    background-color: #111;
+    padding: 60px;
+    width: 25%;
+    color: #ffffff;
+    float: left;
+}
+
+body.app_version .how-its-work .hc h2 {
+    font-size: 64px;
+    display: block;
+    padding: 0 0 0 30px;
+    margin: 0 0 15px;
+    line-height: 1 !important;
+    border-left: 1px dashed rgba(255, 255, 255, 0.4);
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+body.app_version .how-its-work .hc p {
+    font-size: 21px;
+    font-weight: 300;
+    color: #ffffff !important;
+}
+
+body.app_version .how-its-work .hc p.lead {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff !important;
+}
+
+body.app_version .hc.colon1 {
+    background-color: #0d61d0;
+}
+
+body.app_version .hc.colon2 {
+    background-color: #0053c2;
+}
+
+body.app_version .hc.colon3 {
+    background-color: #0049b8;
+}
+
+body.app_version .hc.colon4 {
+    background-color: #003ead;
+}
+
+body.app_version .app-features li {
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 30px;
+}
+
+body.app_version .app-features li:last-child {
+    border-bottom: 0 dashed #efefef;
+    padding-bottom: 0px;
+}
+
+body.app_version .entry {
+    position: relative;
+    padding: 0 !important;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+body.app_version .magnifier {
+    position: absolute;
+    top: 0;
+    cursor: pointer !important;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0+100;Neutral+Density */
+    background-color: rgba(0, 0, 0, 0.8);
+    left: 500px;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    zoom: 1;
+    cursor: crosshair;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+body.app_version .entry:hover .magnifier {
+    zoom: 1;
+    left: 0;
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+
+body.app_version .owl-app {
+    position: relative;
+    overflow: hidden;
+    background-color: #fff;
+    height: 600px;
+    margin: 0 auto;
+    z-index: 1;
+    width: 300px;
+}
+
+body.app_version .owl-app::before {
+    background: url("../images/phonebg.png") no-repeat scroll center center;
+    content: "";
+    height: 600px;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 300px;
+    z-index: 1;
+}
+
+body.app_version .owl-phone {
+    overflow: hidden;
+    background-color: #111;
+    margin: 70px auto 0;
+    height: 449px;
+    display: block;
+    z-index: 2;
+    text-align: center;
+    width: 272px !important;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+/*------------------------------------------------------------------
+    5. CLINIC VERSION
+-------------------------------------------------------------------*/
+
+body.clinic_version {
+    font-family: 'Roboto', sans-serif;
+}
+
+body.clinic_version .footer-links li:hover a,
+body.clinic_version .widget-title small,
+body.clinic_version .customwidget li i,
+body.clinic_version .navbar-nav span {
+    color: #178ccb !important;
+}
+
+body.clinic_version .testimonial h4,
+body.clinic_version .lead strong,
+body.clinic_version .icon-wrapper:hover a,
+body.clinic_version a:hover,
+body.clinic_version a:focus {
+    color: #5dbec5
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.clinic_version .hc.colon2,
+body.clinic_version .btn-buy:hover,
+body.clinic_version .cac:hover,
+body.clinic_version .icon_wrap:hover,
+body.clinic_version .nav-pills > li.active > a,
+body.clinic_version .nav-pills > li.active > a:focus,
+body.clinic_version .nav-pills > li.active > a:hover,
+body.clinic_version .icon-wrapper:hover i,
+body.clinic_version .grd1 {
+    color: #ffffff;
+    background: #5dbec5;
+    border: #5dbec5;
+    background: -moz-linear-gradient(left, #5dbec5 0%, #178ccb 100%);
+    background: -webkit-linear-gradient(left, #5dbec5 0%, #178ccb 100%);
+    background: linear-gradient(to right, #5dbec5 0%, #178ccb 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#5dbec5', endColorstr='#178ccb', GradientType=1);
+}
+
+body.clinic_version .dev-list .widget h3,
+body.clinic_version .icon_wrap,
+body.clinic_version .dmtop:hover,
+body.clinic_version .features-right li:hover i,
+body.clinic_version .features-left li:hover i,
+body.clinic_version .nav-pills > li:hover > a,
+body.clinic_version .nav-pills > li:focus > a,
+body.clinic_version .nav-pills > li.active > a,
+body.clinic_version .nav-pills > li.active > a:focus,
+body.clinic_version .nav-pills > li.active > a:hover,
+body.clinic_version .divider-bar,
+body.clinic_version .owl-next:hover i,
+body.clinic_version .owl-prev:hover i,
+body.clinic_version .icon-wrapper:hover i:hover,
+body.clinic_version .grd1:hover,
+body.clinic_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #178ccb;
+    background: -moz-linear-gradient(left, #178ccb 0%, #5dbec5 100%);
+    background: -webkit-linear-gradient(left, #178ccb 0%, #5dbec5 100%);
+    background: linear-gradient(to right, #178ccb 0%, #5dbec5 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#178ccb', endColorstr='#5dbec5', GradientType=1);
+}
+
+body.clinic_version .navbar-nav span {
+    color: #178ccb !important;
+}
+
+body.clinic_version .affix {
+    background-color: #ffffff !important;
+}
+
+body.clinic_version .header_style_01 {
+    position: relative;
+    background-color: #ffffff;
+}
+
+body.clinic_version .header_style_01 .navbar-default .navbar-nav > li > a {
+    color: #1f1f1f !important;
+}
+
+body.clinic_version .header_style_01 .navbar-default .navbar-right > li > a {
+    color: #ffffff !important;
+    opacity: 1;
+}
+
+body.clinic_version .app_iphone_01 {
+    position: absolute;
+    right: 5%;
+    z-index: 2;
+    bottom: 0%;
+}
+
+body.clinic_version .app_iphone_02 {
+    position: absolute;
+    right: 25%;
+    bottom: -8%;
+    z-index: 1;
+}
+
+body.clinic_version .app_iphone_03 {
+    position: absolute;
+    right: 0%;
+    bottom: -8%;
+    z-index: 1;
+}
+
+body.clinic_version .first-section {
+    padding: 11em 0 10em;
+}
+
+body.clinic_version .first-section h2 {
+    color: #1f1f1f;
+    padding-top: 30px;
+    text-transform: capitalize;
+    font-size: 54px;
+    font-weight: bold;
+}
+
+body.clinic_version .first-section .lead {
+    color: #999999;
+}
+
+body.clinic_version .how-its-work .hc {
+    padding: 60px;
+    width: 33.3333%;
+    color: #ffffff;
+    float: left;
+}
+
+body.clinic_version .how-its-work .hc h2 {
+    font-size: 54px;
+    display: block;
+    padding: 0;
+    margin: 0 0 15px;
+    line-height: 1 !important;
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+body.clinic_version .how-its-work .hc p {
+    font-size: 21px;
+    font-weight: 700;
+    color: #ffffff !important;
+}
+
+body.clinic_version .how-its-work .hc p.lead {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff !important;
+}
+
+body.clinic_version .message-box h2 {
+    font-weight: bold;
+    font-size: 34px;
+}
+
+body.clinic_version .effect-1:after {
+    box-shadow: 0 0 0 2px #5dbec5;
+}
+
+body.clinic_version .section-title h3 {
+    font-size: 34px;
+    padding: 10px 0 0;
+    font-weight: bold;
+    line-height: 1 !important;
+}
+
+body.clinic_version .section-title small {
+    font-size: 16px;
+}
+
+body.clinic_version .section-title hr {
+    width: 80px;
+    margin: 0 auto 0 !important;
+    padding: 1px;
+    background-color: #111;
+}
+
+body.clinic_version .section {
+    padding: 90px 0;
+}
+
+body.clinic_version .nopad {
+    padding: 0 !important;
+}
+
+body.clinic_version .nav-pills {
+    text-align: left !important;
+    border-radius: 0;
+}
+
+body.clinic_version .nav-pills > li > a {
+    background-color: #f2f3f5;
+    border-radius: 0 !important;
+    text-align: left;
+}
+
+body.clinic_version .nav-pills > li {
+    text-align: left !important;
+    float: none;
+    margin: 0 !important;
+    padding: 5px;
+    width: 100%;
+}
+
+body.clinic_version .tab-pane p {
+    margin-bottom: 0;
+    padding-top: 20px;
+}
+
+body.clinic_version .db .section-title small {
+    color: #ffffff;
+}
+
+body.clinic_version .dev-list .widget {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+body.clinic_version .dev-list .widget h3 {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 1 !important;
+    margin: 0 !important;
+    padding: 4px 10px;
+    position: relative;
+    top: -12px;
+}
+
+body.clinic_version .dev-list .widget small {
+    display: block;
+    margin: -10px 0 5px;
+}
+
+body.clinic_version .footer-social {
+    display: block;
+    margin-top: 15px;
+}
+
+body.clinic_version .desc {
+    position: relative;
+    background: #fff;
+    border: 1px solid #ededed;
+}
+
+body.clinic_version .desc:after,
+body.clinic_version .desc:before {
+    top: 100%;
+    left: 10%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+body.clinic_version .desc:after {
+    border-color: rgba(136, 183, 213, 0);
+    border-top-color: #fff;
+    border-width: 15px;
+    margin-left: -15px;
+}
+
+body.clinic_version .desc:before {
+    border-color: rgba(194, 225, 245, 0);
+    border-top-color: #ededed;
+    border-width: 16px;
+    margin-left: -16px;
+}
+
+body.clinic_version .testimonial small {
+    font-size: 13px;
+}
+
+body.clinic_version .working-time {
+    padding: 0;
+    list-style: none;
+}
+
+body.clinic_version .working-time li {
+    padding: 5px 0;
+    position: relative;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.4);
+}
+
+body.clinic_version .working-time li span {
+    position: absolute;
+    right: 0;
+}
+
+body.clinic_version .working-time li:first-child {
+    border-top: 1px dashed rgba(255, 255, 255, 0.4);
+}
+
+body.clinic_version .testimonial h3 {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0 0 10px;
+}
+
+body.clinic_version .desc h3 i {
+    color: rgba(0, 0, 0, 0.1);
+    font-size: 30px;
+}
+
+body.clinic_version .footer {
+    background-color: #ffffff;
+}
+
+body.clinic_version .footer .widget-title h3 {
+    color: #1f1f1f;
+}
+
+body.clinic_version .footer-links li {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.1)
+}
+
+body.clinic_version .footer-links i {
+    border-right: 1px dashed rgba(0, 0, 0, 0.1)
+}
+
+
+/*------------------------------------------------------------------
+    6. REAL ESTATE VERSION
+-------------------------------------------------------------------*/
+
+body.realestate_version .section-title small,
+body.realestate_version .property-detail i,
+body.realestate_version .customwidget li i,
+body.realestate_version .navbar-nav span {
+    color: #f47e00 !important;
+}
+
+body.realestate_version .lead strong,
+body.realestate_version .icon-wrapper:hover a,
+body.realestate_version a:hover,
+body.realestate_version a:focus {
+    color: #d90000
+}
+
+body.realestate_version .property-detail i,
+body.realestate_version .property-detail .col-md-3:hover img {
+    border-color: #f47e00 !important;
+}
+
+body.realestate_version .btn-light {
+    color: #ffffff !important;
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.realestate_version .icon_wrap:hover,
+body.realestate_version .nav-pills > li.active > a,
+body.realestate_version .nav-pills > li.active > a:focus,
+body.realestate_version .nav-pills > li.active > a:hover,
+body.realestate_version .icon-wrapper:hover i,
+body.realestate_version .grd1 {
+    color: #ffffff;
+    background: #f47e00;
+    background: -moz-linear-gradient(left, #f47e00 0%, #d90000 100%);
+    background: -webkit-linear-gradient(left, #f47e00 0%, #d90000 100%);
+    background: linear-gradient(to right, #f47e00 0%, #d90000 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f47e00', endColorstr='#d90000', GradientType=1);
+}
+
+body.realestate_version .icon_wrap,
+body.realestate_version .dmtop:hover,
+body.realestate_version .cac:hover,
+body.realestate_version .features-right li:hover i,
+body.realestate_version .features-left li:hover i,
+body.realestate_version .nav-pills > li:hover > a,
+body.realestate_version .nav-pills > li:focus > a,
+body.realestate_version .nav-pills > li.active > a,
+body.realestate_version .nav-pills > li.active > a:focus,
+body.realestate_version .nav-pills > li.active > a:hover,
+body.realestate_version .divider-bar,
+body.realestate_version .owl-next:hover i,
+body.realestate_version .owl-prev:hover i,
+body.realestate_version .icon-wrapper:hover i:hover,
+body.realestate_version .grd1:hover,
+body.realestate_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #d90000;
+    background: -moz-linear-gradient(left, #d90000 0%, #f47e00 100%);
+    background: -webkit-linear-gradient(left, #d90000 0%, #f47e00 100%);
+    background: linear-gradient(to right, #d90000 0%, #f47e00 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#d90000', endColorstr='#f47e00', GradientType=1);
+}
+
+body.realestate_version .effect-1,
+body.realestate_version .effect-1:after {
+    box-shadow: 0 0 0 2px #f47e00;
+    border-radius: 0 !important;
+}
+
+body.realestate_version .property-detail {
+    text-align: center;
+    cursor: pointer;
+}
+
+body.realestate_version .property-detail p.lead {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+body.realestate_version .property-detail h4 {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 1 !important;
+    margin: 0;
+    padding: 30px 0 20px 0;
+}
+
+body.realestate_version .property-detail i {
+    max-width: 80px;
+    color: #1f1f1f;
+    background-color: #fff !important;
+    margin: 0 auto;
+    padding: 0;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    font-size: 44px;
+    display: block;
+}
+
+body.realestate_version .header_style_01 {
+    background-color: transparent;
+}
+
+body.realestate_version .contact_form .grd1 {
+    border: 0 !important;
+}
+
+body.realestate_version .social-links {
+    margin-top: 0 !important;
+}
+
+body.realestate_version .social-links i {
+    border: 1px solid #fff;
+    display: block;
+    font-size: 14px;
+    height: 30px;
+    line-height: 28px;
+    margin: -5px -3px;
+    padding: 0 !important;
+    text-align: center;
+    width: 30px;
+}
+
+body.realestate_version .section-title small {
+    font-size: 15px;
+    color: #999;
+    letter-spacing: 1px;
+    padding-bottom: 0px;
+    display: block;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+body.realestate_version .contact_form h3 i {
+    border: 1px solid #fff;
+    display: inline-block;
+    font-size: 14px;
+    height: 30px;
+    line-height: 28px;
+    margin: -2px 5px 0 0;
+    padding: 0 !important;
+    vertical-align: middle;
+    text-align: center;
+    width: 30px;
+}
+
+body.realestate_version .contact_form h3 {
+    margin: 0 0 10px;
+    display: block;
+}
+
+body.realestate_version .first-section {
+    display: block;
+    padding: 17em 0 10em !important;
+    position: relative;
+}
+
+body.realestate_version .first-section .grd1 {
+    border: 0 !important;
+}
+
+body.realestate_version .agencies_meta span {
+    display: block;
+    margin-top: 15px;
+}
+
+body.realestate_version .agencies_meta span a {
+    color: #999999;
+}
+
+body.realestate_version .agencies_meta span i {
+    display: block;
+    border: 0 solid #fff;
+    background-color: #232323;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 100%;
+    height: 30px;
+    line-height: 28px;
+    margin: -2px 5px 0 0;
+    padding: 0 !important;
+    vertical-align: middle;
+    text-align: center;
+    width: 30px;
+}
+
+body.realestate_version .section.db .effect-1,
+body.realestate_version .section.db .effect-1:after {
+    box-shadow: 0 0 0 0 #f47e00;
+    border: 0 !important;
+    box-shadow: none !important;
+    border-radius: 50px !important;
+}
+
+body.realestate_version .sep2,
+body.realestate_version .section.db {
+    background-color: #1f1f1f !important;
+}
+
+body.realestate_version .section.db .message-box h2 {
+    color: #ffffff;
+}
+
+body.realestate_version .da-thumbs .pitem a div i {
+    background-color: #232323;
+    border-radius: 100%;
+    bottom: 0;
+    color: #fff !important;
+    font-size: 15px;
+    height: 60px;
+    left: 0;
+    line-height: 60px;
+    margin: -25px auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 50%;
+    width: 60px;
+    z-index: 12;
+}
+
+body.realestate_version #map {
+    height: 600px;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+
+body.realestate_version #map img {
+    max-width: inherit;
+}
+
+body.realestate_version .map {
+    position: relative;
+}
+
+body.realestate_version .map .row {
+    position: relative;
+}
+
+body.realestate_version .infobox img {
+    width: 100% !important;
+}
+
+body.realestate_version .map .searchmodule {
+    padding: 18px 10px;
+}
+
+body.realestate_version .infobox {
+    display: block;
+    margin: 0;
+    padding: 0 0 10px;
+    position: relative;
+    width: 260px;
+    z-index: 100;
+}
+
+body.realestate_version .infobox .title {
+    font-size: 13px;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top: 15px;
+    padding-bottom: 5px;
+    text-transform: capitalize;
+}
+
+body.realestate_version .desc h3 i {
+    color: rgba(0, 0, 0, 0.1);
+}
+
+body.realestate_version .testimonial h4 {
+    color: #1f1f1f;
+}
+
+body.realestate_version .owl-next i,
+body.realestate_version .owl-prev i,
+body.realestate_version .desc {
+    box-shadow: none !important;
+    border: 0 !important;
+    background-color: #fff;
+}
+
+
+/*------------------------------------------------------------------
+    7. POLITICS VERSION
+-------------------------------------------------------------------*/
+
+body.politics_version .participate-wrap small,
+body.politics_version .message-box h4,
+body.politics_version .customwidget li i,
+body.politics_version .navbar-nav span {
+    color: #cd1713 !important;
+}
+
+body.politics_version .lead strong,
+body.politics_version .icon-wrapper:hover a,
+body.politics_version a:hover,
+body.politics_version a:focus {
+    color: #234666
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.politics_version .icon_wrap:hover,
+body.politics_version .nav-pills > li.active > a,
+body.politics_version .nav-pills > li.active > a:focus,
+body.politics_version .nav-pills > li.active > a:hover,
+body.politics_version .icon-wrapper:hover i,
+body.politics_version .grd1 {
+    color: #ffffff;
+    background: #cd1713;
+    background: -moz-linear-gradient(left, #cd1713 0%, #234666 100%);
+    background: -webkit-linear-gradient(left, #cd1713 0%, #234666 100%);
+    background: linear-gradient(to right, #cd1713 0%, #234666 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#cd1713', endColorstr='#234666', GradientType=1);
+}
+
+body.politics_version .icon_wrap,
+body.politics_version .dmtop:hover,
+body.politics_version .cac:hover,
+body.politics_version .features-right li:hover i,
+body.politics_version .features-left li:hover i,
+body.politics_version .nav-pills > li:hover > a,
+body.politics_version .nav-pills > li:focus > a,
+body.politics_version .nav-pills > li.active > a,
+body.politics_version .nav-pills > li.active > a:focus,
+body.politics_version .nav-pills > li.active > a:hover,
+body.politics_version .divider-bar,
+body.politics_version .owl-next:hover i,
+body.politics_version .owl-prev:hover i,
+body.politics_version .icon-wrapper:hover i:hover,
+body.politics_version .grd1:hover,
+body.politics_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #234666;
+    background: -moz-linear-gradient(left, #234666 0%, #cd1713 100%);
+    background: -webkit-linear-gradient(left, #234666 0%, #cd1713 100%);
+    background: linear-gradient(to right, #234666 0%, #cd1713 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#234666', endColorstr='#cd1713', GradientType=1);
+}
+
+body.politics_version .effect-1:after {
+    box-shadow: 0 0 0 2px #234666;
+    border-radius: 0 !important;
+}
+
+body.politics_version .app_iphone_01 {
+    width: 700px;
+    position: absolute;
+    left: 10%;
+    z-index: 2;
+    bottom: -12%;
+}
+
+body.politics_version .first-section {
+    padding: 15em 0 11em;
+}
+
+body.politics_version .first-section h2 {
+    padding-top: 30px;
+    font-size: 58px;
+    font-weight: bold;
+}
+
+body.politics_version .first-section .btn {
+    border: 0 !important;
+}
+
+body.politics_version .first-section i {
+    vertical-align: middle;
+}
+
+body.politics_version .header_style_01 {
+    top: 43px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+body.politics_version .header_style_01 .navbar-default .navbar-nav > li > a {
+    text-transform: uppercase;
+}
+
+body.politics_version .topbar {
+    display: block;
+    padding: 8px 20px;
+    position: relative;
+    background-color: #cd1713;
+    color: #ffffff;
+}
+
+body.politics_version .topbar p {
+    padding: 0;
+    margin: 0;
+}
+
+body.politics_version .issuse-wrap2 {
+    display: block;
+    position: relative;
+}
+
+body.politics_version .issuse-wrap {
+    padding: 20px 0;
+    display: block;
+    position: relative;
+    border-bottom: 1px dashed #dbdbdb;
+}
+
+body.politics_version .issuse-wrap p,
+body.politics_version .issuse-wrap p {
+    margin-bottom: 0;
+}
+
+body.politics_version .issuse-wrap img {
+    max-width: 100px;
+    margin: 0 30px 0 0;
+}
+
+body.politics_version .lastchild {
+    border: 0 !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+body.politics_version .issuse-wrap2 h4 {
+    font-size: 28px;
+    font-weight: bold;
+    padding: 20px 0 20px;
+    text-transform: capitalize;
+}
+
+body.politics_version .issuse-wrap h4 {
+    font-size: 17px;
+    font-weight: bold;
+    padding: 10px 0;
+    text-transform: capitalize;
+}
+
+body.politics_version .section-title {}
+
+body.politics_version .message-box h2,
+body.politics_version .section-title h3 {
+    font-weight: bold;
+}
+
+body.politics_version .participate-wrap {
+    padding: 30px;
+    background-color: #ffffff;
+}
+
+body.politics_version .participate-wrap small {
+    font-size: 18px;
+    display: block;
+    padding-bottom: 20px;
+    position: relative;
+    font-weight: bold;
+}
+
+body.politics_version .participate-wrap h4 {
+    padding-bottom: 5px;
+}
+
+body.politics_version .fullmagnifier {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    bottom: 0;
+}
+
+body.politics_version #block h1 {
+    position: absolute;
+    color: #ffffff;
+    left: 0;
+    right: 0;
+    top: 50%;
+    text-align: center;
+    margin: -20px auto;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+body.politics_version .contact_form {
+    background-color: #010101;
+    border-color: #151515;
+}
+
+body.politics_version .contact_form .form-control {
+    background-color: #1a1a1a;
+    border: 1px solid #1a1a1a;
+}
+
+body.politics_version .btn {
+    border: 0 !important;
+    border-radius: 3px;
+}
+
+body.politics_version .copyrights {
+    background-color: #010101;
+}
+
+
+/*------------------------------------------------------------------
+    8. BARBER VERSION
+-------------------------------------------------------------------*/
+
+body.barber_version .participate-wrap small,
+body.barber_version .message-box h4,
+body.barber_version .customwidget li i,
+body.barber_version .navbar-nav span {
+    color: #424145 !important;
+}
+
+body.barber_version .dev-list small,
+body.barber_version .message-box h4,
+body.barber_version .sidebar-nav li:hover a {
+    color: #893d00 !important;
+}
+
+body.barber_version .lead strong,
+body.barber_version .icon-wrapper:hover a,
+body.barber_version a:hover,
+body.barber_version a:focus {
+    color: #893d00;
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.barber_version .icon_wrap:hover,
+body.barber_version .nav-pills > li.active > a,
+body.barber_version .nav-pills > li.active > a:focus,
+body.barber_version .nav-pills > li.active > a:hover,
+body.barber_version .icon-wrapper:hover i,
+body.barber_version .grd1 {
+    color: #ffffff;
+    background: #424145;
+    background: -moz-linear-gradient(left, #424145 0%, #893d00 100%);
+    background: -webkit-linear-gradient(left, #424145 0%, #893d00 100%);
+    background: linear-gradient(to right, #424145 0%, #893d00 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#424145', endColorstr='#893d00', GradientType=1);
+}
+
+body.barber_version .dmtop,
+body.barber_version .icon_wrap,
+body.barber_version .dmtop:hover,
+body.barber_version .cac:hover,
+body.barber_version .features-right li:hover i,
+body.barber_version .features-left li:hover i,
+body.barber_version .nav-pills > li:hover > a,
+body.barber_version .nav-pills > li:focus > a,
+body.barber_version .nav-pills > li.active > a,
+body.barber_version .nav-pills > li.active > a:focus,
+body.barber_version .nav-pills > li.active > a:hover,
+body.barber_version .divider-bar,
+body.barber_version .owl-next:hover i,
+body.barber_version .owl-prev:hover i,
+body.barber_version .icon-wrapper:hover i:hover,
+body.barber_version .grd1:hover,
+body.barber_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #893d00;
+    background: -moz-linear-gradient(left, #893d00 0%, #424145 100%);
+    background: -webkit-linear-gradient(left, #893d00 0%, #424145 100%);
+    background: linear-gradient(to right, #893d00 0%, #424145 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#893d00', endColorstr='#424145', GradientType=1);
+}
+
+body.barber_version .effect-1:after {
+    box-shadow: 0 0 0 2px #893d00;
+}
+
+body.barber_version {
+    font-family: 'Arvo', sans-serif;
+    overflow-x: hidden;
+}
+
+body.barber_version .first-section .grd1 {
+    border: 0 !important;
+    padding: 17px 40px;
+    font-size: 15px;
+}
+
+body.barber_version .container-fluid {
+    max-width: 1280px;
+}
+
+body.barber_version .section.lb {
+    background-color: #f9f9f9;
+}
+
+
+/* Toggle Styles */
+
+body.barber_version .menuopener {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background-color: #000;
+    z-index: 111;
+    color: #fff !important;
+    width: 50px;
+    height: 50px;
+    display: none;
+    line-height: 50px;
+    text-align: center;
+}
+
+body.barber_version #wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+body.barber_version #wrapper.toggled {
+    padding-left: 280px;
+}
+
+body.barber_version #sidebar-wrapper {
+    z-index: 1000;
+    border-right: 1px dashed rgba(255, 255, 255, 0.1);
+    position: fixed;
+    left: 280px;
+    width: 0;
+    height: 100%;
+    margin-left: -280px;
+    overflow-y: auto;
+    background: #000;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+body.barber_version .contact_form {
+    background-color: #000;
+    border: 0;
+    border-bottom: 2px solid #1f1f1f !important;
+}
+
+body.barber_version .contact_form .form-control {
+    background-color: #000;
+    border: 0;
+    border-bottom: 2px solid #1f1f1f !important;
+}
+
+body.barber_version .contact_form .btn {
+    border: 0 !important;
+}
+
+body.barber_version .section.db,
+body.barber_version .copyrights,
+body.barber_version .cac,
+body.barber_version .footer {
+    background-color: #000000;
+}
+
+body.barber_version #wrapper.toggled #sidebar-wrapper {
+    width: 280px;
+}
+
+body.barber_version #page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+}
+
+body.barber_version #wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-right: -280px;
+}
+
+body.barber_version .first-section h2 strong {
+    font-size: 68px;
+}
+
+body.barber_version .first-section h2 {
+    font-size: 52px;
+}
+
+
+/* Sidebar Styles */
+
+body.barber_version .sidebar-nav {
+    position: absolute;
+    top: 26%;
+    width: 280px;
+    text-align: center;
+    margin: -20px auto;
+    padding: 0 30px;
+    list-style: none;
+}
+
+body.barber_version .container-fluid {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+body.barber_version .logo-sidebar {
+    display: block;
+    margin: 0 0 2em;
+}
+
+body.barber_version .sidebar-nav li {
+    line-height: 45px;
+}
+
+body.barber_version .sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #999999;
+}
+
+body.barber_version .sidebar-nav li a:hover {
+    text-decoration: none;
+    color: #fff;
+    background: none;
+}
+
+body.barber_version .sidebar-nav li a:active,
+body.barber_version .sidebar-nav li a:focus {
+    text-decoration: none;
+}
+
+body.barber_version .section-title h3 {
+    font-size: 34px;
+    padding: 10px 0 0;
+    font-weight: bold;
+    line-height: 1 !important;
+}
+
+body.barber_version .section-title small {
+    font-size: 15px;
+}
+
+body.barber_version .section-title hr {
+    width: 100px;
+    margin: 0 auto 30px !important;
+    padding: 1px;
+    background-color: #111;
+}
+
+body.barber_version hr.invis4 {
+    margin: 90px 0 0;
+    border: 0;
+}
+
+body.barber_version .service-wrap {
+    padding: 30px 0;
+    display: block;
+    position: relative;
+    border-bottom: 1px dashed #dbdbdb;
+}
+
+body.barber_version .service-wrap h4 {
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 21px;
+}
+
+body.barber_version .service-wrap p,
+body.barber_version .service-wrap p {
+    margin-bottom: 0;
+}
+
+body.barber_version .service-wrap img {
+    max-width: 120px;
+    margin: 0 30px 0 0;
+}
+
+body.barber_version .lastchild {
+    border: 0 !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+body.barber_version .dev-list .widget p {
+    margin: 0;
+    padding: 5px 0 15px;
+}
+
+body.barber_version .dev-list img {
+    width: 100%;
+}
+
+body.barber_version .dev-list .widget {
+    padding: 30px;
+    border: 1px solid #ededed;
+}
+
+body.barber_version .dev-list .widget h3 {
+    font-size: 21px;
+    padding: 0 0 5px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.barber_version .dev-list .grd1 {
+    margin: 0 2px;
+    border-radius: 0;
+}
+
+body.barber_version .dev-list .widget-title {
+    padding: 20px 0 10px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+@media(max-width:768px) {
+    body.barber_version .menuopener {
+        display: block;
+    }
+    body.barber_version .first-section h2 strong,
+    body.barber_version .first-section h2 {
+        font-size: 36px;
+    }
+}
+
+@media(min-width:768px) {
+    body.barber_version #wrapper {
+        padding-left: 280px;
+    }
+    body.barber_version #wrapper.toggled {
+        padding-left: 0;
+    }
+    body.barber_version #sidebar-wrapper {
+        width: 280px;
+    }
+    body.barber_version #wrapper.toggled #sidebar-wrapper {
+        width: 0;
+    }
+    body.barber_version #page-content-wrapper {
+        padding: 0;
+        position: relative;
+    }
+    body.barber_version #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0;
+    }
+}
+
+
+/*------------------------------------------------------------------
+    10. BUILDING VERSION
+-------------------------------------------------------------------*/
+
+body.building_version {
+    font-family: 'Raleway', sans-serif;
+}
+
+body.building_version .message-box h4,
+body.building_version .widget-title small,
+body.building_version .customwidget li i,
+body.building_version .navbar-nav span {
+    color: #ffc000 !important;
+}
+
+body.building_version .lead strong,
+body.building_version .icon-wrapper:hover a,
+body.building_version a:hover,
+body.building_version a:focus {
+    color: #fdde00
+}
+
+body.building_version .effect-1:after {
+    box-shadow: 0 0 0 2px #ffc000;
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.building_version .btn-buy:hover,
+body.building_version .cac:hover,
+body.building_version .icon_wrap:hover,
+body.building_version .nav-pills > li.active > a,
+body.building_version .nav-pills > li.active > a:focus,
+body.building_version .nav-pills > li.active > a:hover,
+body.building_version .icon-wrapper:hover i,
+body.building_version .grd1 {
+    color: #000 !important;
+    background: #ffc000;
+    border: #ffc000;
+    background: -moz-linear-gradient(left, #ffc000 0%, #fdde00 100%);
+    background: -webkit-linear-gradient(left, #ffc000 0%, #fdde00 100%);
+    background: linear-gradient(to right, #ffc000 0%, #fdde00 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffc000', endColorstr='#fdde00', GradientType=1);
+}
+
+body.building_version .dev-list .widget h3,
+body.building_version .icon_wrap,
+body.building_version .dmtop:hover,
+body.building_version .features-right li:hover i,
+body.building_version .features-left li:hover i,
+body.building_version .nav-pills > li:hover > a,
+body.building_version .nav-pills > li:focus > a,
+body.building_version .nav-pills > li.active > a,
+body.building_version .nav-pills > li.active > a:focus,
+body.building_version .nav-pills > li.active > a:hover,
+body.building_version .divider-bar,
+body.building_version .owl-next:hover i,
+body.building_version .owl-prev:hover i,
+body.building_version .icon-wrapper:hover i:hover,
+body.building_version .grd1:hover,
+body.building_version .grd1:focus {
+    background-position: 100px;
+    color: #000 !important;
+    background: #fdde00;
+    background: -moz-linear-gradient(left, #fdde00 0%, #ffc000 100%);
+    background: -webkit-linear-gradient(left, #fdde00 0%, #ffc000 100%);
+    background: linear-gradient(to right, #fdde00 0%, #ffc000 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fdde00', endColorstr='#ffc000', GradientType=1);
+}
+
+body.building_version .navbar-nav span {
+    color: #fdde00 !important;
+}
+
+body.building_version .seo-services .col-md-3:hover img {
+    border-color: #fdde00;
+}
+
+body.building_version .affix {
+    background-color: #000000 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+body.building_version .header_style_01 {
+    background-color: #000000;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    position: relative;
+}
+
+body.building_version .header_style_01 .navbar-default .navbar-nav > li > a {
+    color: #ffffff !important;
+}
+
+body.building_version .header_style_01 .navbar-default .navbar-nav > li.active a,
+body.building_version .header_style_01 .navbar-default .navbar-nav > li:hover a,
+body.building_version .header_style_01 .navbar-default .navbar-nav > li:focus a,
+body.building_version .header_style_01 .navbar-default .navbar-nav > li:active a {
+    color: #fcdb08 !important;
+}
+
+body.building_version .first-section {
+    padding: 12em 0;
+}
+
+body.building_version .first-section h2 {
+    color: #000;
+    font-weight: bold;
+    font-size: 54px;
+}
+
+body.building_version .first-section .lead {
+    color: #222222;
+}
+
+body.building_version .first-section .btn {
+    background-color: #000000 !important;
+    border: 0 !important;
+}
+
+body.building_version .message-box h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+body.building_version .dev-list .widget {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+body.building_version .dev-list .widget h3 {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 1 !important;
+    margin: 0 !important;
+    padding: 4px 10px;
+    position: relative;
+    top: -12px;
+}
+
+body.building_version .dev-list .widget small {
+    display: block;
+    margin: -10px 0 5px;
+}
+
+body.building_version .footer-social {
+    display: block;
+    margin-top: 15px;
+}
+
+body.building_version .message-box p {
+    margin-bottom: 0;
+}
+
+body.building_version .message-box p.lead {
+    margin-bottom: 30px;
+}
+
+body.building_version .btn-dark {
+    border: 2px solid #000000 !important;
+    color: #000000 !important;
+}
+
+body.building_version .section-title h3 {
+    font-weight: bold;
+}
+
+body.building_version .contact_form .btn {
+    border: 0 !important;
+}
